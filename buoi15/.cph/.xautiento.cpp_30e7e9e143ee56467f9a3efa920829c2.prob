@@ -1,0 +1,1 @@
+{"name":"Local: xautiento","url":"d:\\Visual\\ITIS\\ICPC\\buoi15\\xautiento.cpp","tests":[{"id":1785765001662,"input":"5\n1 abcdef\n1 abcefd\n2 abc\n1 abdfec\n2 abf\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual\\ITIS\\ICPC\\buoi15\\xautiento.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: fibo","url":"d:\\Visual\\ITIS\\ICPC\\buoi2\\fibo.cpp","tests":[{"id":1773662013858,"input":"3\n1\n3\n8\n","output":"1\n2\n21"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual\\ITIS\\ICPC\\buoi2\\fibo.cpp","group":"local","local":true}

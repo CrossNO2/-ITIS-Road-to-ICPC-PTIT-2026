@@ -1,0 +1,1 @@
+{"name":"Local: phantulonnhat","url":"d:\\Visual\\ITIS\\ICPC\\buoi8\\phantulonnhat.cpp","tests":[{"id":1777898020637,"input":"7 4\n-1 2 1 -3 2 -5 4\n","output":"2 2 2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual\\ITIS\\ICPC\\buoi8\\phantulonnhat.cpp","group":"local","local":true}

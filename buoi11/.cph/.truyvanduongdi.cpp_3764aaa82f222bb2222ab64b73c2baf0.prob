@@ -1,0 +1,1 @@
+{"name":"Local: truyvanduongdi","url":"d:\\Visual\\ITIS\\ICPC\\buoi11\\truyvanduongdi.cpp","tests":[{"id":1783345051931,"input":"7 9\n2 1 2\n1 1 2\n2 3 7\n1 2 3\n2 1 3\n2 2 4\n1 1 4\n2 3 4\n2 1 7\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual\\ITIS\\ICPC\\buoi11\\truyvanduongdi.cpp","group":"local","local":true}

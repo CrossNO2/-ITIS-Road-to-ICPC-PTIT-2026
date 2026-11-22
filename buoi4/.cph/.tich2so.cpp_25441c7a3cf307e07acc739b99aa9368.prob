@@ -1,0 +1,1 @@
+{"name":"Local: tich2so","url":"d:\\Visual\\ITIS\\ICPC\\buoi4\\tich2so.cpp","tests":[{"id":1774874412383,"input":"2\n2 3 4\n12345 678910 111\n","output":"2\n39\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual\\ITIS\\ICPC\\buoi4\\tich2so.cpp","group":"local","local":true}

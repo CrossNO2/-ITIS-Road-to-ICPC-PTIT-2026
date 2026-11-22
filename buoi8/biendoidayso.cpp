@@ -1,0 +1,34 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+#define endl "\n"
+#define boost ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+#define ll long long
+#define maxn 200000
+#define mod 1000000007
+#define ull unsigned long long
+#pragma GCC optimize("O3")
+
+int main() {
+    boost
+    int n;
+    cin >> n;
+    deque<ll> b;
+    for(int i=0;i<n;++i) {
+        int x;
+        cin >> x;
+        if(n%2==0) {
+            if(i%2==0) b.push_back(x);
+            else b.push_front(x);
+        }else {
+            if(i%2==0) b.push_front(x);
+            else b.push_back(x);
+        }
+    }
+    while(!b.empty()) {
+        cout << b.front() << " ";
+        b.pop_front();
+    }
+    return 0;
+}

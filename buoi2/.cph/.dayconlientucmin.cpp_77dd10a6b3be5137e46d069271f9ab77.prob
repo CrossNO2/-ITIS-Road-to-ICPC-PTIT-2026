@@ -1,0 +1,1 @@
+{"name":"Local: dayconlientucmin","url":"d:\\Visual\\ITIS\\ICPC\\buoi2\\dayconlientucmin.cpp","tests":[{"id":1773884368362,"input":"2\n5 15\n1 2 3 4 5\n5 8\n5 4 3 2 1\n","output":"-1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual\\ITIS\\ICPC\\buoi2\\dayconlientucmin.cpp","group":"local","local":true}

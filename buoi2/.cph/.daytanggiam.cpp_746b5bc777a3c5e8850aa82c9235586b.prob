@@ -1,0 +1,1 @@
+{"name":"Local: daytanggiam","url":"d:\\Visual\\ITIS\\ICPC\\buoi2\\daytanggiam.cpp","tests":[{"id":1773880631682,"input":"2\n5\n8\n","output":"1 2 3 4 5 4 3 2 1 \n1 2 3 4 5 6 7 8 7 6 5 4 3 2 1 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual\\ITIS\\ICPC\\buoi2\\daytanggiam.cpp","group":"local","local":true}

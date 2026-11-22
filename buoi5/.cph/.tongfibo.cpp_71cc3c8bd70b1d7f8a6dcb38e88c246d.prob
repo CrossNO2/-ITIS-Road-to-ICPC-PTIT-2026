@@ -1,0 +1,1 @@
+{"name":"Local: tongfibo","url":"d:\\Visual\\ITIS\\ICPC\\buoi5\\tongfibo.cpp","tests":[{"id":1775617727644,"input":"5\n1\n2\n4\n6\n8\n","output":"1\n2\n7\n20\n54\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual\\ITIS\\ICPC\\buoi5\\tongfibo.cpp","group":"local","local":true}

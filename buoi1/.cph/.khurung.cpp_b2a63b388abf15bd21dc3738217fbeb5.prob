@@ -1,0 +1,1 @@
+{"name":"Local: khurung","url":"d:\\Visual\\ITIS\\ICPC\\buoi1\\khurung.cpp","tests":[{"id":1773217294011,"input":"4 3\n.*..\n*.**\n**..\n****\n2 2 3 4\n3 1 3 1\n1 1 2 2\n","output":"3\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual\\ITIS\\ICPC\\buoi1\\khurung.cpp","group":"local","local":true}

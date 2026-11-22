@@ -1,0 +1,1 @@
+{"name":"Local: fibonaccithun","url":"d:\\Visual\\ITIS\\ICPC\\buoi5\\fibonaccithun.cpp","tests":[{"id":1775483666997,"input":"3\n2\n6\n20\n","output":"1\n8\n6765\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual\\ITIS\\ICPC\\buoi5\\fibonaccithun.cpp","group":"local","local":true}

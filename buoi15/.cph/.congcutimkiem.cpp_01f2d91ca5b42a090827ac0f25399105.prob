@@ -1,0 +1,1 @@
+{"name":"Local: congcutimkiem","url":"d:\\Visual\\ITIS\\ICPC\\buoi15\\congcutimkiem.cpp","tests":[{"id":1785905603574,"input":"4 3\nitisptit 10\nptit 4\nitptit 1\nptithcm 2\nit\nptit\nptithn\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual\\ITIS\\ICPC\\buoi15\\congcutimkiem.cpp","group":"local","local":true}

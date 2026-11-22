@@ -1,0 +1,1 @@
+{"name":"Local: Bai_H","url":"d:\\Visual\\ITIS\\ICPC\\contest1\\Bai_H.cpp","tests":[{"id":1785663889596,"input":"2\n4 5\n1 2 2 8\n2 3 3 7\n1 3 4 9\n3 4 10 1\n2 4 6 2\n3 3\n1 2 5 1\n2 3 4 2\n1 3 10 10000000\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual\\ITIS\\ICPC\\contest1\\Bai_H.cpp","group":"local","local":true}
